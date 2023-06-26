@@ -39,7 +39,7 @@ enableRobotsTXT = true
 
 [params]
   # The description of your website
-  description = "RTLABXYZ - Information dump for Craig"
+  description = "RTLABXYZ - Info dump for Craig"
 
   # The path to your favicon
   favicon = "images/favicon.png"

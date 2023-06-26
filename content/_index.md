@@ -12,4 +12,4 @@ I may post guides and tidbits of my workflow to 3d printing and other works in p
 
 I'll archive my notes, tribulations, and results here as well. 
 
-An extension of man, indeed.
+

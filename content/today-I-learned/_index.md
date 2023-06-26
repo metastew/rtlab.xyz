@@ -1,5 +1,5 @@
 ---
-title: "Logs"
+title: "Today I Learned..."
 menu: "main"
 weight: 2
 ---
